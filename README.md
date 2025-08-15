@@ -66,6 +66,15 @@ It transforms raw sales data into a compelling **data story** with actionable bu
 
 ---
 
+## 📂 Repository Structure
+```plaintext
+BMW-Global-Sales-Analysis/
+│
+├── BMW Car Sales Analysis.pbix           # Original Power BI file
+├── BMW Car Sales Analysis - Mohamed Habib.pdf   # PDF version of dashboard
+├── Images/                      # Dashboard screenshots
+└── README.md                    # Documentation
+
 ## 🔍 Insights Discovered
 - **Top Model:** BMW 7 Series leads in sales volume globally.
 - **Popular Colors:** Black and Silver dominate global demand.

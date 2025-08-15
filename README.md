@@ -89,7 +89,7 @@ This repository contains the files for the **BMW Global Sales Analysis (2010–2
 
 ---
 
-## 1️⃣ BMW Car Sales Analysis.pbix
+## 1️⃣  [Download BMW Car Sales Analysis.pbix](https://github.com/halcyon-habib/BMW-Global-Sales-Analysis/blob/main/BMW%20Car%20Sales%20Analysis.pbix)
 **Format:** Power BI Desktop File (.pbix)  
 **Purpose:**  
 The interactive Power BI dashboard with all visuals, data models, and DAX calculations.
@@ -101,7 +101,7 @@ The interactive Power BI dashboard with all visuals, data models, and DAX calcul
 
 ---
 
-## 2️⃣ BMW Global Sales Analysis - Mohamed Habib.pdf
+## 2️⃣ [View BMW Global Sales Analysis - Mohamed Habib.pdf](https://github.com/halcyon-habib/BMW-Global-Sales-Analysis/blob/main/BMW%20Global%20Sales%20Analysis%20-%20Mohamed%20Habib.pdf)
 **Format:** PDF Document (.pdf)  
 **Purpose:**  
 Static version of the dashboard for quick viewing without Power BI.

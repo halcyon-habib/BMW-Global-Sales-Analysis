@@ -29,40 +29,40 @@ It transforms raw sales data into a compelling **data story** with actionable bu
 ## 📸 Dashboard Previews
 
 ### **1. Global Sales Performance Overview**
-![Global Overview](Images/page1.png)
+![Global Overview](Images/page1.jpg)
 
 ### **2. Model-Level Analysis – 3 Series**
-![3 Series](Images/page2.png)
+![3 Series](Images/page2.jpg)
 
 ### **3. Model-Level Analysis – 5 Series**
-![5 Series](Images/page3.png)
+![5 Series](Images/page3.jpg)
 
 ### **4. Model-Level Analysis – 7 Series**
-![7 Series](Images/page4.png)
+![7 Series](Images/page4.jpg)
 
 ### **5. Model-Level Analysis – i3**
-![i3](Images/page5.png)
+![i3](Images/page5.jpg)
 
 ### **6. Model-Level Analysis – i8**
-![i8](Images/page6.png)
+![i8](Images/page6.jpg)
 
 ### **7. Model-Level Analysis – X1**
-![X1](Images/page7.png)
+![X1](Images/page7.jpg)
 
 ### **8. Model-Level Analysis – X3**
-![X3](Images/page8.png)
+![X3](Images/page8.jpg)
 
 ### **9. Model-Level Analysis – X5**
-![X5](Images/page9.png)
+![X5](Images/page9.jpg)
 
 ### **10. Model-Level Analysis – X6**
-![X6](Images/page10.png)
+![X6](Images/page10.jpg)
 
 ### **11. Model-Level Analysis – M3**
-![M3](Images/page11.png)
+![M3](Images/page11.jpg)
 
 ### **12. Model-Level Analysis – M5**
-![M5](Images/page12.png)
+![M5](Images/page12.jpg)
 
 ---
 

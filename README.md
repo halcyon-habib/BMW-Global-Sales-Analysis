@@ -66,15 +66,6 @@ It transforms raw sales data into a compelling **data story** with actionable bu
 
 ---
 
-## 📂 Repository Structure
-```plaintext
-BMW-Global-Sales-Analysis/
-│
-├── BMW Car Sales Analysis.pbix           # Original Power BI file
-├── BMW Car Sales Analysis - Mohamed Habib.pdf   # PDF version of dashboard
-├── Images/                      # Dashboard screenshots
-└── README.md                    # Documentation
-
 ## 🔍 Insights Discovered
 - **Top Model:** BMW 7 Series leads in sales volume globally.
 - **Popular Colors:** Black and Silver dominate global demand.
@@ -89,6 +80,42 @@ BMW-Global-Sales-Analysis/
 - **Data Modeling** – Relationships between tables, calculated columns.
 - **Data Storytelling** – Structuring insights for decision-making.
 - **Business Analytics** – KPI selection, trend analysis, recommendations.
+
+---
+
+# 📂 Project Files
+
+This repository contains the files for the **BMW Global Sales Analysis (2010–2024)** dashboard.
+
+---
+
+## 1️⃣ BMW Car Sales Analysis.pbix
+**Format:** Power BI Desktop File (.pbix)  
+**Purpose:**  
+The interactive Power BI dashboard with all visuals, data models, and DAX calculations.
+
+**How to Open:**
+1. Download the `.pbix` file.
+2. Open in **Microsoft Power BI Desktop** (free from Microsoft Store).
+3. Use slicers and filters to explore the data.
+
+---
+
+## 2️⃣ BMW Global Sales Analysis - Mohamed Habib.pdf
+**Format:** PDF Document (.pdf)  
+**Purpose:**  
+Static version of the dashboard for quick viewing without Power BI.
+
+**When to Use:**
+- Quick, non-interactive review.
+- Sharing with others who don’t have Power BI.
+- Printing or embedding in reports.
+
+---
+
+## 💡 Recommendation
+- Use the **PBIX** for **interactive analysis**.
+- Use the **PDF** for **quick reference and sharing**.
 
 ---
 
